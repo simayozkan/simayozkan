@@ -1,11 +1,6 @@
 <h1 align="center">Hi There, I'm Simay</h1>
 <h3 align="center">A passionate data scientist ⚡</h3>
 
-- 📄 I’m currently working as **Data Analyst**
-
-- 👨‍💻 I have a MSc in **Applied Data Science**
-
-- 🌱 Currently improving myself **on Deep Learning**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
